@@ -1,6 +1,7 @@
-var api = "http://api.giphy.com/v1/gifs/search?"; // URL to that API
+var api = "http://api.giphy.com/v1/gifs/search?";
 var apiKey = "&api_key=dlhmS7XfvzMNEimvWxHc4N7USmPDATh8";
-var query = "&q=rainbow";
+var query = "&q=covid";
+ //var api: URL to that API
 // Giphy API provides the following JSOn endpoints: search GiF by id GIFs by id translate random trending stickers
 // q: parameters are name value paris that get strung togerther like q=ryan + gosling
 // limit is like how many results do i get
